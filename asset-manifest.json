@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/dsci304-final-mufc-analysis-site/static/css/main.f855e6bc.css",
-    "main.js": "/dsci304-final-mufc-analysis-site/static/js/main.19aed358.js",
+    "main.js": "/dsci304-final-mufc-analysis-site/static/js/main.619ae1b2.js",
     "static/js/787.e2a570ef.chunk.js": "/dsci304-final-mufc-analysis-site/static/js/787.e2a570ef.chunk.js",
-    "static/media/logo.svg": "/dsci304-final-mufc-analysis-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dsci304-final-mufc-analysis-site/index.html",
     "main.f855e6bc.css.map": "/dsci304-final-mufc-analysis-site/static/css/main.f855e6bc.css.map",
-    "main.19aed358.js.map": "/dsci304-final-mufc-analysis-site/static/js/main.19aed358.js.map",
+    "main.619ae1b2.js.map": "/dsci304-final-mufc-analysis-site/static/js/main.619ae1b2.js.map",
     "787.e2a570ef.chunk.js.map": "/dsci304-final-mufc-analysis-site/static/js/787.e2a570ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.19aed358.js"
+    "static/js/main.619ae1b2.js"
   ]
 }
