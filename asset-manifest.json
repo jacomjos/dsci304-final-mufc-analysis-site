@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dsci304-final-mufc-analysis-site/static/css/main.f855e6bc.css",
-    "main.js": "/dsci304-final-mufc-analysis-site/static/js/main.9e940d08.js",
+    "main.css": "/dsci304-final-mufc-analysis-site/static/css/main.2fe0ecdd.css",
+    "main.js": "/dsci304-final-mufc-analysis-site/static/js/main.fe683ef0.js",
     "static/js/787.e2a570ef.chunk.js": "/dsci304-final-mufc-analysis-site/static/js/787.e2a570ef.chunk.js",
     "index.html": "/dsci304-final-mufc-analysis-site/index.html",
-    "main.f855e6bc.css.map": "/dsci304-final-mufc-analysis-site/static/css/main.f855e6bc.css.map",
-    "main.9e940d08.js.map": "/dsci304-final-mufc-analysis-site/static/js/main.9e940d08.js.map",
+    "main.2fe0ecdd.css.map": "/dsci304-final-mufc-analysis-site/static/css/main.2fe0ecdd.css.map",
+    "main.fe683ef0.js.map": "/dsci304-final-mufc-analysis-site/static/js/main.fe683ef0.js.map",
     "787.e2a570ef.chunk.js.map": "/dsci304-final-mufc-analysis-site/static/js/787.e2a570ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9e940d08.js"
+    "static/css/main.2fe0ecdd.css",
+    "static/js/main.fe683ef0.js"
   ]
 }
